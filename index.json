@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "spatialdata-integration-testing",
+  "versions": [
+    {
+      "commit": "4982079e516f58c51b19c93bb60aac178a2c4512",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:27:15.459018+00:00"
+    }
+  ]
+}
