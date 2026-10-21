@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/spatialdata-integration-testing/commit/4982079e516f58c51b19c93bb60aac178a2c4512",
       "git:hexsha": "4982079e516f58c51b19c93bb60aac178a2c4512",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
